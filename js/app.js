@@ -1,6 +1,6 @@
 const calendarButton = document.querySelector('.btn-start');
 const calendarContainer = document.querySelector('.container');
-const calendarMonths = 12;
+const calendarMonths = 24;
 
 
 calendarButton.addEventListener('click', (event)=> {
